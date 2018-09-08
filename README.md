@@ -19,7 +19,7 @@ A favourite quote of mine is by [*Bernt Øksendal*](https://www.springer.com/gp/
 Often in mathematics you will see common phrases appearing again and again. Below I have listed some common remarks, and their literal translations
 
 Phrase | Translation|
--------|-------------
->The proof is trivial, and is left as an exercise to the reader| **The author is too lazy to write the proof**
+------------|-------------
+*"Easy to see"* | **It will take several hours to figure it out **
 
 
