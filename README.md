@@ -20,6 +20,9 @@ Often in mathematics you will see common phrases appearing again and again. Belo
 
 Phrase | Translation|
 ------------|-------------
-*"Easy to see"* | **It will take several hours to figure it out **
+*"Trivial"* | **It will take several hours to figure it out**
+*"Easy to see"*| **Current open research problem**
+
+
 
 
