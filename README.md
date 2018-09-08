@@ -16,12 +16,12 @@ A favourite quote of mine is by [*Bernt Øksendal*](https://www.springer.com/gp/
 
 >We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things.
 
-Often in mathematics you will see common phrases appearing again and again. Below I have listed some common remarks, and their literal translations
+Often in mathematics you will see common phrases appearing again and again. Below I have listed a couple commonly seen phrases, and their respective translations.
 
 Phrase | Translation|
 ------------|-------------
-*"Trivial"* | **It will take several hours to figure it out**
-*"Easy to see"*| **Current open research problem**
+*"Trivial"* | *"It will take several hours to figure it out"*
+*"Easy to see"*| *"Current open research problem"*
 
 
 
