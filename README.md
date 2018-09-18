@@ -1,6 +1,6 @@
 ### Homework 1 Repository
 
-In this repository you will find my submissions for homework 1 of [Stat 545A](http://stat545.com/), along with a markdown file ```hw01_instructions.md``` that contains guidelines about homework 1!
+In this repository you will find my submissions for homework 1 of [Stat 545A](http://stat545.com/), consisting of a data analysis of the `gapminder` data set in the markdown and r-markdown files `hw01_gapminder.md` and `hw01_gapminder.rmd`, along with a markdown file `hw01_instructions.md` that contains guidelines about homework 1!
 
 
 ### About Me
